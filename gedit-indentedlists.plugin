@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python
+Module=gedit-indentedlists
+IAge=3
+Name=Indented Lists (for Markdown)
+Description=This makes Markdown indented lists slightly more pleasant to write in the text editor. (special thanks to Steve Frécinaux, who wrote the Smart Spaces plugin, and got me started on my first plugin)
+Icon=gtk-unindent
+Authors=Jeff Reed <jeff.r.gnome@gmail.com>
+Copyright=Copyright © 2013 Jeff Reed
+Website=http://github.com/TODO
+Version=3.0.0
